@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm NexBorn</h1>
-<h3 align="center">A passionate Backend developer from Ecuador</h3>
+<h3 align="center">I' m a software engineering student a passionate Backend developer from Ecuador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nexborn&label=Profile%20views&color=0e75b6&style=flat" alt="nexborn" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nexborn" alt="nexborn" /></a> </p>
 
 - 🔭 I’m currently working on [MineCub Network](minecub.es)
 
 - 🌱 I’m currently learning **Boostrap and php**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NexBorn?tab=repositories](https://github.com/NexBorn?tab=repositories)
 
 - 📫 How to reach me **javired0@outlook.es**
 
@@ -20,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexborn&show_icons=true&locale=en&layout=compact" alt="nexborn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexborn&show_icons=true&locale=en" alt="nexborn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexborn&" alt="nexborn" /></p>
